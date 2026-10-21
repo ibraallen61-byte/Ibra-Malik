@@ -1,0 +1,6 @@
+{
+  "name": "Lucky, But Sad — A Serendipity Sanctuary",
+  "description": "An evocative digital sanctuary for bittersweet hours. Draw serendipitous fortunes, explore generative rain & vinyl soundscapes, flip the silver-lining coin, and release floating lanterns into a tranquil pool.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
